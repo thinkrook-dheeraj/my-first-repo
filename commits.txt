@@ -1,1 +1,3 @@
 This is Commit A
+This is Commit B
+This is Commit C
