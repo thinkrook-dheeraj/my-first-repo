@@ -1,3 +1,5 @@
 Hello I am pushing this file from my terminal
 
 This line is added via GitHub
+
+This is another line added via GitHub
